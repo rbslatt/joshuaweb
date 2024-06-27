@@ -1,0 +1,14 @@
+
+.container {
+    position: relative;
+    max-width: 800px; 
+    margin: 0 auto; 
+  }
+  
+  .container .content {
+    bottom: 0; 
+    color:black;
+    width: 100%;
+    padding: 20px;
+  }
+  
